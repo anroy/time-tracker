@@ -1,0 +1,10 @@
+Ref study
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul
+
+Ref sample
+Code
+https://github.com/mdn/learning-area/tree/main/javascript/apis/client-side-storage
+
+Execution
+https://mdn.github.io/learning-area/javascript/apis/client-side-storage/indexeddb/notes/

@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+
+h3 {
+    color: blue;
+}
+  
+.name {
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #009;
+}
+.error {
+    font-weight: bold;
+    color: #C00;
+}
+#results {
+    border: medium solid #390;
+    display: none;
+    padding-left: 10px;
+    width: 300px;
+}
+
+fieldset {
+    display: table;
+}
+fieldset p {
+    display: table-row;
+}
+fieldset button, 
+fieldset input, 
+fieldset select, 
+fieldset label {
+    display: table-cell;
+    margin: 5px;
+}
+fieldset label {
+    text-align: right;
+}
+
+.button {
+    background-color: rgb(160, 160, 160);
+    border: none;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px;
+  }
+
+.button1 {border-radius: 2px;}
+.button2 {border-radius: 4px;}
+.button3 {border-radius: 8px;}
+.button4 {border-radius: 12px;}
+.button5 {border-radius: 50%;}
